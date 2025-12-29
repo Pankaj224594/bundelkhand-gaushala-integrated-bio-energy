@@ -1,0 +1,7 @@
+{
+  "name": "Bundelkhand GauSeva & Integrated Bio Energy",
+  "description": "An informational, research-oriented platform for a pilot-stage gaushala-based circular renewable energy model for rural sustainability.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
